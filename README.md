@@ -66,7 +66,7 @@ A Complete Data mining procedure case study. Take a look at the pdf report for m
 
 ---
 
-## Course Project:
+## Course Project Deep-Set:
 
 A two-phase project has been done throughout the semester for this course by Me and Masoud Mousavi as a group. We have chosen several methodologies to prepare and analyze a dataset containing team and player box-scores and used them to predict outcome of matches using two different deep learning models, namely Deep-Set and Blade-Chest.
 
